@@ -21,7 +21,9 @@ Ensemble Methods: Stacking (AdaBoost, Bagging, RandomForest, XGBoost, LightGBM, 
 
 ### 🔬 Research Paper
 📄 Title: Heart Disease Prediction Using Ensemble Techniques and Explainable AI
-🔍 Authors: Harshit Jaiswal, Hardik Dulani, Uday H Nambissan, Naman Gupta, Gagan Verma, Abhishek Kumar Gupta,
+
+🔍 Authors: Harshit Jaiswal, Hardik Dulani, Uday H Nambissan, Naman Gupta, Gagan Verma, Abhishek Kumar Gupta.
+
 📚 Institution: VIT Bhopal University
 
 ### 🏗️ Tech Stack
