@@ -9,7 +9,9 @@ We have trained multiple ML models, including Random Forest, XGBoost, AdaBoost, 
 
 ## 🚀 Features
 ✔️ Predicts Coronary Artery Disease (CAD) using clinical parameters
+
 ✔️ 11 ML models with ensemble learning for high accuracy
+
 ✔️ SHAP Analysis for interpretable AI in healthcare
 
 ### 📊 Machine Learning Models
